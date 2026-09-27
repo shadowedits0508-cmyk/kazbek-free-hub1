@@ -1,5 +1,3 @@
--- ts file was generated at discord.gg/25ms
-
 Players = game:GetService('Players')
 LocalPlayer = Players.LocalPlayer
 StarterGui = game:GetService('StarterGui')
